@@ -1,4 +1,4 @@
-# Fintopa: Transformative Financial Literacy in Virtual Reality
+# Fintopa
 
 ## Welcome to Fintopa
 Fintopa is not just an application; it's a revolution in financial education. Dive into an immersive experience that combines Virtual Reality and 5G technology to bring financial literacy to the younger generation in an unprecedented way.
