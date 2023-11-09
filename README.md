@@ -17,6 +17,6 @@ Witness immediate fluctuations in stock values and financial indicators, reflect
 
 Created using C# and Unity for the Meta Quest 2
 
-#### Project created for the 2023 University of Waterloo [Velocity's](https://velocityincubator.com/) Innovation Challenge: Imagining the Future of Finance Challenge 💰(3rd Place Winner) 
+#### Project created for the 2023 University of Waterloo [Velocity's](https://velocityincubator.com/) Innovation Challenge: Imagining the Future of Finance Challenge 💰 (3rd Place Winner) 
 
 
